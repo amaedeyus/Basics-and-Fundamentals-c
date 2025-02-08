@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+//GITHUB MERGE-DESCENDING ARRAYS
+
 int firstArraySize, secondArraySize, mergedArraySize, sortedArraySize;
 const int maxSize=10;
 
